@@ -1,5 +1,11 @@
 # jwttest9
 
+## How to build
+mvn clean package
+
+## How to run
+java -jar target/jwttestmain.jar <options>
+
 ## Generate Secret Key
 java -k <key_length>
 
